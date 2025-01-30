@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02f935d9-08a2-471f-8f6f-20f7d57cbdc6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PE_4.3_Bot_with_TTS/voice_xx.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PE_4.3_Bot_with_TTS/output.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/PE_4.3_Bot_with_TTS/output.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PE_4.3_Bot_with_TTS/voice.py" beforeDir="false" afterPath="$PROJECT_DIR$/PE_4.3_Bot_with_TTS/voice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE_4.3_Bot_with_TTS/voice_xx.py" beforeDir="false" afterPath="$PROJECT_DIR$/PE_4.3_Bot_with_TTS/voice_xx.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +40,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.1.executor": "Run",
     "Python.voice.executor": "Run",
+    "Python.voice_xx.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/asus/Documents/GitHub/Prompt_Engineering_2/PE_4.3_Bot_with_TTS"
@@ -48,6 +48,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\asus\Documents\GitHub\Prompt_Engineering_2\PE_4.3_Bot_with_TTS" />
       <recent name="C:\Users\asus\Documents\GitHub\Prompt_Engineering_2" />
     </key>
   </component>
