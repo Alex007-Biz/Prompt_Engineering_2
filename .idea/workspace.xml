@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02f935d9-08a2-471f-8f6f-20f7d57cbdc6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PE_4.3_Bot_with_TTS/audio.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PE_4.3_Bot_with_TTS/old/voice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PE_4.3_Bot_with_TTS/Бот для озвучки.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Prompt_Engineering_2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Prompt_Engineering_2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PE_4.3_Bot_with_TTS/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PE_4.3_Bot_with_TTS/voice.py" beforeDir="false" afterPath="$PROJECT_DIR$/PE_4.3_Bot_with_TTS/voice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PE_4.3_Bot_with_TTS/voice_OK_xx.py" beforeDir="false" afterPath="$PROJECT_DIR$/PE_4.3_Bot_with_TTS/old/voice_OK_xx.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE_4.3_Bot_with_TTS/audio.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/PE_4.3_Bot_with_TTS/audio.mp3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
