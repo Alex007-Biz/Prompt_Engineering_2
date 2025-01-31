@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02f935d9-08a2-471f-8f6f-20f7d57cbdc6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PE_4.3_Bot_with_TTS/voice_xx.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PE_4.3_Bot_with_TTS/output.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/PE_4.3_Bot_with_TTS/output.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PE_4.3_Bot_with_TTS/voice.py" beforeDir="false" afterPath="$PROJECT_DIR$/PE_4.3_Bot_with_TTS/voice.py" afterDir="false" />
-    </list>
+    <list default="true" id="02f935d9-08a2-471f-8f6f-20f7d57cbdc6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,16 +31,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.1.executor": "Run",
-    "Python.voice.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/asus/Documents/GitHub/Prompt_Engineering_2/PE_4.3_Bot_with_TTS"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.voice.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/asus/Documents/GitHub/Prompt_Engineering_2/PE_4.3_Bot_with_TTS&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\asus\Documents\GitHub\Prompt_Engineering_2" />
@@ -54,7 +49,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+        <option value="bundled-python-sdk-48aec45f0201-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17011.127" />
       </set>
     </attachedChunks>
   </component>
