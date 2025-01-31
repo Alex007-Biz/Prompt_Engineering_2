@@ -7,7 +7,7 @@ client = ElevenLabs(
 )
 
 audio = client.generate(
-  text="Привет! Меня зовут Дейв.",
+  text="Привет Олеся! Приготовь Алексею завтрак.",
   voice="Dave",
   model="eleven_multilingual_v2"
 )
