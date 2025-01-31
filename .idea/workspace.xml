@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02f935d9-08a2-471f-8f6f-20f7d57cbdc6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PE_4.3_Bot_with_TTS/audio.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PE_4.3_Bot_with_TTS/old/voice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PE_4.3_Bot_with_TTS/Бот для озвучки.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Prompt_Engineering_2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Prompt_Engineering_2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE_4.3_Bot_with_TTS/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE_4.3_Bot_with_TTS/voice.py" beforeDir="false" afterPath="$PROJECT_DIR$/PE_4.3_Bot_with_TTS/voice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE_4.3_Bot_with_TTS/voice_OK_xx.py" beforeDir="false" afterPath="$PROJECT_DIR$/PE_4.3_Bot_with_TTS/old/voice_OK_xx.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,19 +41,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Python.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.voice.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/asus/Documents/GitHub/Prompt_Engineering_2/PE_4.3_Bot_with_TTS&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.1.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.voice.executor": "Debug",
+    "Python.voice_02.executor": "Run",
+    "Python.Бот для озвучки.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/asus/Documents/GitHub/Prompt_Engineering_2/PE_4.3_Bot_with_TTS"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\asus\Documents\GitHub\Prompt_Engineering_2\PE_4.3_Bot_with_TTS" />
       <recent name="C:\Users\asus\Documents\GitHub\Prompt_Engineering_2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\asus\Documents\GitHub\Prompt_Engineering_2\PE_4.3_Bot_with_TTS\old" />
     </key>
   </component>
   <component name="SharedIndexes">
